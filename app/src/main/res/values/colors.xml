@@ -5,8 +5,8 @@
 
     <color name="lightGray">#E3E3E3</color>
     <color name="darkGray">#959595</color>
-    <color name="weak">#FF4646</color>
-    <color name="medium">#FF8F00</color>
-    <color name="strong">#FCCA3F</color>
-    <color name="bulletProof">#00C853</color>
+    <color name="fraco">#FF4646</color>
+    <color name="medio">#FF8F00</color>
+    <color name="forte">#FCCA3F</color>
+    <color name="muito_forte">#00C853</color>
 </resources>
